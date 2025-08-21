@@ -12,7 +12,7 @@ permissions:
 
 env:
   SUBMODULE_REPOS: |
-    SEAT=https://github.com/tillsteinbach/CarConnectivity-connector-seatcupra.git
+    SEAT=https://github.com/jannik-rahm/CarConnectivity-connector-seatcupra.git@feature/active-ventilation
     SKODA=https://github.com/tillsteinbach/CarConnectivity-connector-skoda.git
     VW=https://github.com/tillsteinbach/CarConnectivity-connector-volkswagen.git
     TRONITY=https://github.com/tillsteinbach/CarConnectivity-connector-tronity.git
